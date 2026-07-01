@@ -1,4 +1,4 @@
 print('j')
-a = 'pasha'
+a = 'Artisom'
 b = 'lox'
 print(a + b)
